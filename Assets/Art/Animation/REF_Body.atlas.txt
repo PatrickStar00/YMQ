@@ -1,0 +1,244 @@
+
+REF_Body.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Birdie
+  rotate: false
+  xy: 455, 132
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+Mouth_Angry
+  rotate: true
+  xy: 149, 88
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+Mouth_Laugh
+  rotate: false
+  xy: 109, 48
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Mouth_Provocation
+  rotate: true
+  xy: 348, 57
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 41, 115
+  orig: 41, 115
+  offset: 0, 0
+  index: -1
+body_female_skirt
+  rotate: false
+  xy: 361, 193
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+body_pelvis
+  rotate: false
+  xy: 109, 62
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+body_shirt
+  rotate: true
+  xy: 2, 45
+  size: 56, 105
+  orig: 56, 105
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 157, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 259, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+left_backarm
+  rotate: true
+  xy: 157, 116
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+left_backarm_shirt
+  rotate: true
+  xy: 431, 218
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+left_forearm_shirt
+  rotate: true
+  xy: 431, 218
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+right_backarm_shirt
+  rotate: true
+  xy: 431, 218
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+right_forearm_shirt
+  rotate: true
+  xy: 431, 218
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+left_backleg_short
+  rotate: true
+  xy: 236, 122
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+left_forearm
+  rotate: true
+  xy: 361, 155
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+left_foreleg_short
+  rotate: true
+  xy: 157, 84
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+right_foreleg_short
+  rotate: true
+  xy: 157, 84
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 319, 51
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 149, 52
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+left_leg_thigh
+  rotate: true
+  xy: 234, 52
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+left_shoe
+  rotate: false
+  xy: 467, 164
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+right_shoe
+  rotate: false
+  xy: 467, 164
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+left_socks
+  rotate: true
+  xy: 431, 194
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+right_socks
+  rotate: true
+  xy: 431, 194
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+racket
+  rotate: false
+  xy: 2, 103
+  size: 153, 151
+  orig: 153, 151
+  offset: 0, 0
+  index: -1
+right_backarm
+  rotate: true
+  xy: 242, 84
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+right_backleg_short
+  rotate: false
+  xy: 359, 69
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+right_forearm
+  rotate: false
+  xy: 321, 75
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 440, 157
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+right_hand_Close
+  rotate: true
+  xy: 473, 191
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 391, 70
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+right_leg_thigh
+  rotate: false
+  xy: 423, 70
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
